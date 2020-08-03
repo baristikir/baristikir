@@ -3,7 +3,8 @@
 <!--
 **brstkr/brstkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+This is the place where I try my best and mostly break things :rofl:
+
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning SwiftUI, ML, AI and AR
@@ -12,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@brstkr](https://brstkr.com/contact.html)
 
 
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
