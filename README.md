@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**brstkr/brstkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### Hi, I am Baris 👋
 
 This is the place where I try my best and mostly break things :rofl:
 
@@ -12,6 +9,7 @@ This is the place where I try my best and mostly break things :rofl:
 - 💬 Ask me about C#/Blazor WebAssebmbly/ASP.NET Core
 - 📫 How to reach me: [@brstkr](https://brstkr.com/contact.html)
 
+---------
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
