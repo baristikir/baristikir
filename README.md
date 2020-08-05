@@ -26,5 +26,5 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 ---------
 
-**Recent Blog Posts**
+**My Own Blog Posts**
  - [How to build a Swift application with ASP.NET Core in the back-end](https://medium.com/@brstkr3/how-to-connect-your-swift-application-to-an-asp-net-core-back-end-cc0ab9a4fba8)
