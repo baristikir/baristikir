@@ -14,7 +14,7 @@ This is the place where I try my best and mostly break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2020 - 09 August, 2020
+Week: 03 August, 2020 - 10 August, 2020
 
 Swift   32 hrs 58 mins  ███████████████████████░░   94.49 % 
 C#      1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
