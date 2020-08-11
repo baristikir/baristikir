@@ -4,7 +4,7 @@ This is the place where I try my best and mostly break things :rofl:
 
 
 - 🔭  I’m currently working on my iOS mobile application **needwork** and be developing the front-end and back-end for it.
-- 🍀  I’m currently learning SwiftUI, ML, AI and AR
+- 🍀  I’m currently learning SwiftUI, Python, JS/NodeJS, ML & AI
 - ✌🏻  I’m looking to collaborate
 - 💬  Ask me about C# / ASP.NET Core / Blazor WebAssebmbly
 - 📫  How to reach me: [@brstkr](https://brstkr.com/contact.html)
