@@ -16,11 +16,11 @@ This is the place where I try my best and mostly break things :rofl:
 ```text
 Week: 05 August, 2020 - 12 August, 2020
 
-Swift        27 hrs 51 mins  ██████████████████████░░░   89.89 % 
-C#           54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-JavaScript   49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Markdown     30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-XML          17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Swift        24 hrs 57 mins  ██████████████████░░░░░░░   74.03 % 
+JavaScript   6 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Python       48 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Markdown     30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+XML          17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 <!--END_SECTION:waka-->
 
