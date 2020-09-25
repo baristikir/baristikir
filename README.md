@@ -14,7 +14,7 @@ This is the place where I try my best and mostly break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2020 - 23 September, 2020
+Week: 17 September, 2020 - 24 September, 2020
 
 SCSS         18 hrs 38 mins  █████████████▓░░░░░░░░░░░   54.89 % 
 HTML         11 hrs 14 mins  ████████▒░░░░░░░░░░░░░░░░   33.10 % 
