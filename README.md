@@ -1,8 +1,5 @@
 ### Hi, I am Baris 👋
 
-This is the place where I try my best and mostly break things :rofl:
-
-
 - 🔭  I’m currently working on my iOS mobile application **needwork** and be developing the front-end and back-end for it.
 - 🍀  I’m currently learning [Swift] - SwiftUI, [Python] - Django, [JS] - ReactJS, Game Dev.  with Unity [C#]
 - ✌🏻  I’m looking to collaborate
