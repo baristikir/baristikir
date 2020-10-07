@@ -1,7 +1,7 @@
 ### Hi, I am Baris 👋
 
 - 🔭  I’m currently working on my iOS mobile application **needwork** and be developing the front-end and back-end for it.
-- 🍀  I’m currently learning [Swift] - SwiftUI, [Python] - Django, [JS] - ReactJS, Game Dev.  with Unity [C#]
+- 🍀  I’m currently learning [Swift] - SwiftUI, [Python] - Django, [JS] - Vuejs, Game Dev.  with Unity [C#]
 - ✌🏻  I’m looking to collaborate
 - 💬  Ask me about C# / ASP.NET Core / Blazor WebAssebmbly
 - 📫  How to reach me: [@brstkr](https://brstkr.com/contact.html)
