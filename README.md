@@ -11,7 +11,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
 SCSS         7 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.47 % 
 Vue.js       6 hrs 59 mins   █████████▓░░░░░░░░░░░░░░░   38.15 % 
