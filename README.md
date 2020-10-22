@@ -1,5 +1,4 @@
-- ✌🏻  I’m looking to collaborate
- <p align="center">
+<p align="center">
   <br><br>
   <samp>
     :wave: Hi! I'm Baris.
