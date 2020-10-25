@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2020 - 23 October, 2020
+Week: 17 October, 2020 - 24 October, 2020
 
-Vue.js       8 hrs 37 mins   ██████████░░░░░░░░░░░░░░░   40.60 % 
-SCSS         6 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   31.23 % 
-Dart         3 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.78 % 
-HTML         1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+SCSS         9 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   35.20 % 
+Vue.js       8 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   32.66 % 
+Dart         3 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+HTML         2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+JavaScript   2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 ```
 <!--END_SECTION:waka-->
 
