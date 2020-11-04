@@ -14,13 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2020 - 02 November, 2020
+Week: 27 October, 2020 - 03 November, 2020
 
-SCSS         13 hrs 8 mins   █████████████████░░░░░░░░   67.87 % 
-HTML         4 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-JavaScript   1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+SCSS         15 hrs 8 mins   █████████████████▓░░░░░░░   70.27 % 
+HTML         5 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   23.29 % 
+JavaScript   1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
