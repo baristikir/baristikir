@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 November, 2020 - 10 November, 2020
+Week: 04 November, 2020 - 11 November, 2020
 
-SCSS         13 hrs 36 mins  ███████████▒░░░░░░░░░░░░░   45.61 % 
-JavaScript   10 hrs 42 mins  █████████░░░░░░░░░░░░░░░░   35.91 % 
-HTML         4 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+SCSS         12 hrs 45 mins  █████████▓░░░░░░░░░░░░░░░   39.27 % 
+JavaScript   11 hrs 6 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 % 
+HTML         3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+C++          3 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 <!--END_SECTION:waka-->
 
