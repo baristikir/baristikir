@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 November, 2020 - 26 November, 2020
+Week: 20 November, 2020 - 27 November, 2020
 
 JavaScript   5 hrs 25 mins   ████████████████▓░░░░░░░░   66.90 % 
 TypeScript   1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.63 % 
