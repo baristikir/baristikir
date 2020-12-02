@@ -14,13 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2020 - 30 November, 2020
+Week: 24 November, 2020 - 01 December, 2020
 
-JavaScript   8 hrs 27 mins   █████████████████████▒░░░   85.41 % 
-C++          41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Other        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JavaScript   5 hrs 21 mins   ███████████████████░░░░░░   75.80 % 
+C++          1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Other        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Python       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 <!--END_SECTION:waka-->
 
