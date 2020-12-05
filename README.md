@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 November, 2020 - 03 December, 2020
+Week: 27 November, 2020 - 04 December, 2020
 
-JavaScript   5 hrs 20 mins   ████████████████▒░░░░░░░░   65.69 % 
-C++          1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Dart         51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript   5 hrs 20 mins   ████████████████░░░░░░░░░   63.94 % 
+C++          1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Dart         51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 <!--END_SECTION:waka-->
 
