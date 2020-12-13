@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
-Dart          7 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   36.63 % 
-TypeScript    4 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 % 
-Swift         3 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.81 % 
-JavaScript    2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Objective-C   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Dart         7 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.23 % 
+TypeScript   6 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.76 % 
+JavaScript   3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Swift        3 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+JSON         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 ```
 <!--END_SECTION:waka-->
 
