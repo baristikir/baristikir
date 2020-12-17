@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2020 - 15 December, 2020
+Week: 09 December, 2020 - 16 December, 2020
 
-TypeScript   11 hrs 34 mins  ██████████▓░░░░░░░░░░░░░░   43.13 % 
-JavaScript   8 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
-Dart         4 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-JSON         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-HTML         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+TypeScript   11 hrs 52 mins  ████████████▒░░░░░░░░░░░░   49.00 % 
+JavaScript   8 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   35.63 % 
+JSON         1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Dart         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+HTML         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 <!--END_SECTION:waka-->
 
