@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2020 - 25 December, 2020
+Week: 19 December, 2020 - 26 December, 2020
 
-Python       3 hrs 38 mins   ██████████▓░░░░░░░░░░░░░░   42.12 % 
-TypeScript   2 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   32.45 % 
-JSON         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-JavaScript   43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript   7 hrs 26 mins   ██████████████████▒░░░░░░   72.85 % 
+JSON         1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+JavaScript   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Python       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 <!--END_SECTION:waka-->
 
