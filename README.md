@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2021 - 20 January, 2021
+Week: 14 January, 2021 - 21 January, 2021
 
-TypeScript   13 hrs 37 mins  █████████▓░░░░░░░░░░░░░░░   38.16 % 
-JavaScript   13 hrs 4 mins   █████████░░░░░░░░░░░░░░░░   36.61 % 
-Dart         7 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Go           1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-JSON         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TypeScript   47 hrs 21 mins  ███████████████████████▓░   95.21 % 
+JSON         57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+HTML         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
 
