@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
 TypeScript   52 hrs 35 mins  ████████████████████████░   96.29 % 
 JSON         50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
