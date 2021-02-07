@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2021 - 05 February, 2021
+Week: 30 January, 2021 - 06 February, 2021
 
-Dart         15 hrs 19 mins  ███████████▓░░░░░░░░░░░░░   46.56 % 
-TypeScript   13 hrs 34 mins  ██████████▒░░░░░░░░░░░░░░   41.23 % 
-JavaScript   3 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Dart         16 hrs          ██████████████░░░░░░░░░░░   56.65 % 
+TypeScript   9 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   33.84 % 
+JavaScript   1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
 
