@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 Dart         13 hrs 57 mins  █████████████▓░░░░░░░░░░░   54.65 % 
 TypeScript   9 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   35.76 % 
