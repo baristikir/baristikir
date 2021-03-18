@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 March, 2021 - 16 March, 2021
+Week: 10 March, 2021 - 17 March, 2021
 
-TypeScript   34 hrs 59 mins  █████████████████░░░░░░░░   68.51 % 
-Dart         10 hrs 48 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.16 % 
-JavaScript   1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-JSON         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Markdown     46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript   27 hrs 48 mins  ██████████████▒░░░░░░░░░░   57.99 % 
+Dart         16 hrs 18 mins  ████████▓░░░░░░░░░░░░░░░░   34.02 % 
+Other        58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JavaScript   54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Markdown     45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 <!--END_SECTION:waka-->
 
