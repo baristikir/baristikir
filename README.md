@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
+Week: 31 March, 2021 - 07 April, 2021
 
 TypeScript   23 hrs          ███████████████████████▓░   94.22 % 
 GraphQL      51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
