@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 April, 2021 - 15 April, 2021
+Week: 09 April, 2021 - 16 April, 2021
 
 TypeScript   43 hrs 24 mins  █████████████████████▒░░░   85.02 % 
 Dart         2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
