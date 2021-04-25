@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 April, 2021 - 23 April, 2021
+Week: 17 April, 2021 - 24 April, 2021
 
-TypeScript   23 hrs 15 mins  ████████████████▓░░░░░░░░   67.25 % 
-Dart         5 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-SCSS         3 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-JavaScript   1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-GraphQL      31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript   19 hrs 20 mins  ███████████████████▒░░░░░   77.33 % 
+SCSS         3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+JavaScript   1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 
