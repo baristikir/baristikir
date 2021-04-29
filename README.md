@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 April, 2021 - 27 April, 2021
+Week: 21 April, 2021 - 28 April, 2021
 
 TypeScript   23 hrs 37 mins  ███████████████████▓░░░░░   78.28 % 
 SCSS         1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
