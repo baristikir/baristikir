@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 May, 2021 - 22 May, 2021
+Week: 16 May, 2021 - 23 May, 2021
 
 TypeScript   28 hrs 59 mins  ████████████████░░░░░░░░░   63.85 % 
 JavaScript   11 hrs 34 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.50 % 
