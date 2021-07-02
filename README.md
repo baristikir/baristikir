@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 June, 2021 - 30 June, 2021
+Week: 25 June, 2021 - 01 July, 2021
 
 TypeScript   30 hrs 44 mins  ███████████████████████░░   91.47 % 
 Rust         1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
