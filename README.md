@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2021 - 16 July, 2021
+Week: 11 July, 2021 - 17 July, 2021
 
 TypeScript   34 hrs 26 mins  ████████████████████▒░░░░   81.59 % 
 JSON         2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
