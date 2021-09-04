@@ -15,13 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
-
-TypeScript   27 hrs 12 mins  ███████████████████████▓░   94.65 % 
-Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
