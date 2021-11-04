@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2021 - 02 November, 2021
+Week: 28 October, 2021 - 03 November, 2021
 
-TypeScript   33 hrs 3 mins   ██████████████████████▒░░   89.76 % 
-Other        2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-SCSS         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+TypeScript   25 hrs 25 mins  ██████████████████████▓░░   90.24 % 
+Other        2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+SCSS         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
