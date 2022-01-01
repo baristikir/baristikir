@@ -15,13 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
-TypeScript   18 hrs 56 mins  █████████████████████▓░░░   87.24 % 
-Other        2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript   13 hrs 36 mins  ███████████████████████░░   91.86 % 
+Other        1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
 
