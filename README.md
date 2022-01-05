@@ -15,13 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-TypeScript   13 hrs 14 mins  ██████████████████▒░░░░░░   73.22 % 
-Other        1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-JSON         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-YAML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+TypeScript   22 hrs          ████████████████████░░░░░   80.27 % 
+Other        2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+YAML         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 <!--END_SECTION:waka-->
 
