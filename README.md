@@ -15,9 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-TypeScript   4 hrs 53 mins   █████████████████████████   99.87 % 
+TypeScript   9 hrs 55 mins   █████████████████████████   99.68 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
 
