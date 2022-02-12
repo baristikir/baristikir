@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
-TypeScript   28 hrs 45 mins  ████████████████████████░   95.49 % 
-JSON         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-CSS          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript   28 hrs 14 mins  ████████████████████████░   95.66 % 
+JSON         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+CSS          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
 
