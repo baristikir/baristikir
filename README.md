@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-TypeScript   22 hrs 32 mins  ██████████████████████▒░░   89.04 %
-Bash         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Other        53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+TypeScript   24 hrs 57 mins  ███████████████████████░░   92.31 %
+Bash         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Other        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
