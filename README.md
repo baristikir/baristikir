@@ -14,12 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2022 - To: 31 May 2022
+From: 25 May 2022 - To: 01 June 2022
 
-TypeScript   29 hrs 51 mins  ███████████████████████▓░   94.56 %
-Vue.js       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TypeScript   29 hrs 10 mins  ████████████████████████░   96.26 %
+Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
