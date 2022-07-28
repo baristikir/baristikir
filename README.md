@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 July 2022 - To: 27 July 2022
+
+TypeScript   14 hrs 32 mins  █████████████████▓░░░░░░░   70.38 %
+Python       4 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
