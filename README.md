@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 August 2022 - To: 11 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-TypeScript   16 hrs 34 mins  ██████████████████▓░░░░░░   74.79 %
-Rust         2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Other        1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+TypeScript   19 hrs 33 mins  ██████████████░░░░░░░░░░░   55.44 %
+Rust         6 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+Other        3 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
 ```
 
 <!--END_SECTION:waka-->
