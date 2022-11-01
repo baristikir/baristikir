@@ -14,11 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 October 2022 - To: 29 October 2022
+From: 23 October 2022 - To: 30 October 2022
 
-Rust         4 hrs 52 mins   ████████████████████████░   96.58 %
-TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Rust         5 hrs 10 mins   ████████████████████████▒   96.89 %
+TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
