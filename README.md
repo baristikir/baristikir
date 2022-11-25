@@ -14,13 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-Python       37 mins         ███████░░░░░░░░░░░░░░░░░░   27.46 %
-TypeScript   31 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
-JSON         20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-Markdown     19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-Other        17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+TypeScript   41 mins         █████████▒░░░░░░░░░░░░░░░   37.41 %
+Python       37 mins         ████████▒░░░░░░░░░░░░░░░░   33.69 %
+Other        17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
 ```
 
 <!--END_SECTION:waka-->
