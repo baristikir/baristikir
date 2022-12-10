@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-TypeScript         2 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   38.60 %
-Markdown           40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-C#                 40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-Kotlin             24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Other              24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+TypeScript   58 mins         ███████▒░░░░░░░░░░░░░░░░░   29.38 %
+C#           40 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+Rust         23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Markdown     21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Other        19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 ```
 
 <!--END_SECTION:waka-->
